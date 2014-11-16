@@ -3,9 +3,9 @@
 - title: Map
   url: /map
   excerpt: "This is where we climbed"
-  image: map.jpg
+  image: /MountainPhotos/rainier.jpg
 
-  - title: Recaps
+- title: Recaps
   url: /recap
   excerpt: "Stories from our climbs"
-  image: adams.jpg
+  image: /MountainPhotos/adams.jpg
